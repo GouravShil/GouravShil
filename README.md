@@ -9,9 +9,8 @@
 
 - 💬 Ask me about **Java, Spring MVC, Microservices, Spring Boot, Spring Security, Spring Batch, Spring AOP, ORM, MyBatis, Hibernate, MySQL, Oracle, IBM DB2, REST, Maven, Websphere, Tomcat and Elasticsearch**
 
-- 📫 How to reach me **gourav.shil9@outlook.com**
+- 📫 You can reach me at **gourav.shil9@outlook.com**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
